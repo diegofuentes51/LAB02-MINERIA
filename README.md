@@ -1,2 +1,2 @@
-# silver-meme
+# LAB02-MINERIA
 LAB02
